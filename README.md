@@ -1,5 +1,5 @@
 # A-B-Testing-for-Pricing
-This project is a Streamlit-based simulation tool designed to demonstrate the impact of the decoy effect on product pricing strategies.
+This project is a Streamlit-based simulation tool designed to demonstrate the impact of the decoy effect on product pricing strategies. Dan Ariely, professor at Duke University and author of 'Predictably Irrational' carried out an experiment on the pricing of a magazine. He observed that the ARPU (Average Revenue Per User) significantly jumped. This experiment makes the decoy effect an important pricing strategy to be considered.
 
 ## Key Features
 1. Dynamic Data Generation: Simulates user behavior and conversion rates.
