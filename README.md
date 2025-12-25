@@ -1,5 +1,5 @@
 # A-B-Testing-for-Pricing
-This project is a Streamlit-based simulation tool designed to demonstrate the impact of the Decoy Effect on product pricing strategies.
+This project is a Streamlit-based simulation tool designed to demonstrate the impact of the decoy effect on product pricing strategies.
 
 ## Key Features
 1. Dynamic Data Generation: Simulates user behavior and conversion rates.
@@ -18,8 +18,6 @@ Frequentist Hypothesis:
 1. Null Hypothesis($H_0$): There is no difference in the mean revenue between the control group and decoy group. Any observed difference is due to noise.
 2. Alternative Hypothesis ($H_a$): There is a statistically significant difference in the mean revenue between the control group and the decoy group.
 
-
- 
 ## How to run
 1. Install the required libraries using pip:
 pip install streamlit pandas numpy scipy plotly
@@ -35,7 +33,7 @@ Control: Users choose between basic and premium.
 Decoy Variant: Users choose between basic, decoy, and premium.
 
 ### Analysis Methods
-Statistical Significance: Uses the p-value from a T-test on ARPU to demonstrate you if the ARPU difference between variants is significant or due to chance.
+Statistical Significance: Uses the p-value from a T-test on ARPU to demonstrate if the ARPU difference between variants is significant or due to chance.
 
 Bayesian Probability: Calculates the specific probability that the decoy variant is better than the control.
 
