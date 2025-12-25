@@ -23,7 +23,7 @@ Frequentist Hypothesis:
 pip install streamlit pandas numpy scipy plotly
 
 2. Run the Application:
-streamlit run app.py
+streamlit run AB_test_app.py
 
 ## How to interpret results
 The simulation adds a decoy option to a pricing page to nudge users from a basic plan toward a higher-margin premium plan.
